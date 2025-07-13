@@ -59,7 +59,7 @@ npm run dev
 ```
 
 3. **Access the application**:
-- Frontend: http://localhost:5173
+- Frontend: https://iot-dashboard-murex.vercel.app/
 
 
 
