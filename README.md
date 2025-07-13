@@ -4,7 +4,7 @@ A real-time web dashboard for monitoring industrial machine sensor data, built w
 
 ## 🚀 Features
 
-- **Real-time Data Monitoring**: Updates every 2 seconds with live sensor data
+- **Real-time Data Monitoring**: Updates every 5 seconds with live sensor data
 - **Intelligent Status Logic**: Automatic machine health assessment based on temperature and vibration thresholds
 - **Alert System**: Visual and configurable audio alerts for threshold violations
 - **Responsive Design**: Professional industrial-grade UI that works on desktop and mobile
